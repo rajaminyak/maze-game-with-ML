@@ -15,7 +15,7 @@ An interactive maze game that uses reinforcement learning (Q-learning) to find o
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/maze-game-ml.git
+git clone https://github.com/rajaminyak/maze-game-ml.git
 cd maze-game-ml
 ```
 
